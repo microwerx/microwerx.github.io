@@ -1,0 +1,9 @@
+Add the following content to the top of the file, exactly as shown:
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Linux Libertine O",serif;
+}
